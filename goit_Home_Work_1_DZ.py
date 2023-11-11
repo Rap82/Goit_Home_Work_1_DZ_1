@@ -44,3 +44,19 @@
 # value_night =20
 # payment =(value_day+value_night/2)*rate
 # print(f"Вартість електроенергії : {payment} грн")
+
+# =======================Завдання 4/Task_4 ==================
+#++++++++++++++++++++++Умова/Condition+++++++++++++++++++++++
+
+# Знову повернемося до попереднього завдання. Додамо перед обчисленням змінної payment пояснювальний коментар. 
+# Закоментуйте текст 'Payment for electricity for the current month', щоб код став робочим.
+
+# +++++++++++++++++Код/Code+++++++++++++++++++++++++++++++++++
+
+# rate = 1.68
+# value_day = 358
+# value_night = 103
+# #Payment for electricity for the current month
+# payment = rate * value_day + rate / 2 * value_night #Payment for electricity for the current month
+# print(f"Вартість електроенергії : {payment} грн ")
+
