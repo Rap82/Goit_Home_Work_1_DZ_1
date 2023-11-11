@@ -59,3 +59,4 @@
 # #Payment for electricity for the current month
 # payment = rate * value_day + rate / 2 * value_night #Payment for electricity for the current month
 # print(f"Вартість електроенергії : {payment} грн ")
+
