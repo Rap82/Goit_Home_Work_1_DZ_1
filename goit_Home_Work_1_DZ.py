@@ -106,3 +106,19 @@
 # full_name = first_name + " " + last_name
 # message = f"\nDear {first_name}, we inform you that you have purchased a ticket to travel to the island of Mauritius. \nDeparture June 31 of this year. Have a passport at {full_name}. We are looking forward to seeing you!\n"
 # print(message)
+
+# =======================Завдання 8/Task_8 ==================
+#++++++++++++++++++++++Умова/Condition+++++++++++++++++++++++
+
+# Змінна length містить довжину, а змінна width — ширину кімнати. 
+# Необхідно зробити розрахунок площі кімнати та результат помістити в змінну area.
+# Додайте змінну show, в яку помістіть рядок з наступним шаблоном:
+# 'With width <значення ширини> and length <значення довжини> of the room, its area is equal to <значення площі>'.
+
+# +++++++++++++++++Код/Code+++++++++++++++++++++++++++++++++++
+
+# length = 2.75
+# width = 1.75
+# area =length*width
+# show = f"With width {width}\nand length {length} of the room,\nits area is equal to {area}"
+# print(show)
